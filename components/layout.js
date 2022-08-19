@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-import styles from "@components/layout.module.css"
+import styles from "./layout.module.css";
 
 const name = "Yubico Products";
 export const siteTitle = "Yubico";

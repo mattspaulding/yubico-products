@@ -3,9 +3,7 @@
   "scripts": {
     "dev": "NODE_OPTIONS='--inspect' next dev",
     "build": "next build",
-    "start": "next start",
-    "test": "jest",
-    "coverage": "jest --coverage"
+    "start": "next start"
   },
   "dependencies": {
     "next": "latest",
